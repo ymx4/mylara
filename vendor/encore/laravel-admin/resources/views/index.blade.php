@@ -30,8 +30,6 @@
         {!! Admin::script() !!}
     </div>
 
-    @include('admin::partials.footer')
-
 </div>
 
 <script>
